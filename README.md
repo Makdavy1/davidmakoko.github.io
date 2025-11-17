@@ -1,2 +1,2 @@
-# davidmakoko.github.io
-Personal website
+# David Makoko Personal Site
+This is my personal website
